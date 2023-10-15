@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574282845915",
+    "project_id": "myapp-5ec6d",
+    "storage_bucket": "myapp-5ec6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574282845915:android:9d890d3e4426d0f8c206fe",
+        "android_client_info": {
+          "package_name": "com.example.loay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574282845915-o2gqqg7tp1usqlb9fa97qmeb6t7u3llf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loay_app",
+            "certificate_hash": "c5042d1bdc0202ec22311347cf8acd6e9e90e066"
+          }
+        },
+        {
+          "client_id": "574282845915-s4qu1kfjlahtlqj55f9kcpt2u8712vbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-M_IWIytkb4ODjSUVPAVerj2if_j7GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574282845915-s4qu1kfjlahtlqj55f9kcpt2u8712vbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
